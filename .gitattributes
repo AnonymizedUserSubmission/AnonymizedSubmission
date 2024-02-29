@@ -1,0 +1,12 @@
+workdirs/trans10k filter=lfs diff=lfs merge=lfs -text
+workdirs/other_datasets filter=lfs diff=lfs merge=lfs -text
+workdirs/other_datasets/cod10k filter=lfs diff=lfs merge=lfs -text
+workdirs/other_datasets/gdd filter=lfs diff=lfs merge=lfs -text
+workdirs/other_datasets/msd filter=lfs diff=lfs merge=lfs -text
+workdirs/trans10k/400.pth filter=lfs diff=lfs merge=lfs -text
+workdirs/other_datasets/cod10k/camouflage_compared_with_sinet.pth filter=lfs diff=lfs merge=lfs -text
+workdirs/other_datasets/gdd/gdd_compared_with_gdnet.pth filter=lfs diff=lfs merge=lfs -text
+workdirs/other_datasets/msd/mirrornet filter=lfs diff=lfs merge=lfs -text
+workdirs/other_datasets/msd/pmd filter=lfs diff=lfs merge=lfs -text
+workdirs/other_datasets/msd/mirrornet/msd_compared_with_mirrornet.pth filter=lfs diff=lfs merge=lfs -text
+workdirs/other_datasets/msd/pmd/msd_compared_with_pmd.pth filter=lfs diff=lfs merge=lfs -text
