@@ -29,7 +29,7 @@ Please make sure that there is at least one gpu when compiling. Then run:
 
 ## Pretrained Models
 All the pretrained models can be fould here:
-[PretrainModels](https://github.com/AnonymizedUserSubmission/AnonymizedLinkForFANet/tree/main/workdirs).
+[PretrainModels](https://github.com/AnonymizedUserSubmission/AnonymizedSubmissionForFANet/tree/main/workdirs).
 
 
 ## Data Preparation
